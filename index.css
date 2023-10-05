@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito&family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@900&display=swap');
+
+body {
+    background-color: rgb(49, 49, 49);
+}
+
+nav {
+    background-color: rgb(97, 97, 97);
+    border-radius: 10px;
+    width: 1020px;
+    margin: 10px;
+}
+
+.navlink {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(0, 255, 0);
+    font-family: 'Gabarito', cursive;
+}
+
+.descricao {
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(97, 97, 97);
+    width: 1020px;
+}
+
+p {
+    color: white;
+    font-family: 'Gabarito', cursive;
+    margin: 10px;
+    padding: 10px;
+}
+
+.titulo {
+    color: white;
+    font-family: 'Gabarito', cursive;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(0, 255, 0);
+}
+
+aside {
+    color: white;
+    background-color: rgb(97, 97, 97);
+    position: fixed;
+    top: 0;
+    right: 0;
+    border-radius: 10px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    color: white;
+    font-family: 'Gabarito', cursive;
+    margin: 10px;
+    padding: 10px;
+}
+
+.globo-terrestre {
+    margin: 10px;
+}
+
+.mapa {
+    text-align: center;
+    border: white;
+    margin: 50px;
+}
+
+footer {
+    background-color: rgb(97, 97, 97);
+    margin: 10px;
+    border-radius: 10px;
+}
